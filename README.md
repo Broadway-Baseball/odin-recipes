@@ -1,0 +1,1 @@
+This project is a simple recipes website made with HTML. This is my first HTML website made using the Odin Project.
